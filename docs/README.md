@@ -1,17 +1,28 @@
-# _Airspace_ for HEC
-![screenshot](screenshots/home.png "Description goes here")
+# Project Pages
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+# Nav Bar Jumbles
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+If you have seemingly random pages popping up on your Nav Bar recently, this is due to the fact that GitHub/Jekyll changed a fundemental rule they used to render pages. 
+
+## CAUSE:
+It used to be that if a markdown file didn't have `---` frontmatter at the beginning, it wasn't rendered as a page. This was changed very recently (like in the last 2 days) so that every markdown file anywhere no matter what gets rendered as a page.  
+
+## FIX:
+
+1) Go to:
+
+`project-pages/plugin/projector/` or `yourreponame/plugin/projector/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+
+GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+
+and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+
+2) Go to:
+
+`project-pages/css/theme/` or `yourreponame/css/theme/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
+
+GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
+
+and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
