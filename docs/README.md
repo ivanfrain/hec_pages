@@ -1,15 +1,17 @@
-# A beautiful demo of github pages
+# _Airspace_ for HEC
+![screenshot](screenshots/home.png "Description goes here")
 
-## Products
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
 
-## Solutsion
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Usage
+To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
 
-## REferences
-
- * [http://www.google.com|"Google"]
-
-## Content
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Examples
+Here are some projects that have used this Jekyll Theme:
+* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
+* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
+* [Mãos de amar](https://www.maosdeamar.com.br/)
+* [ATK Team](http://www.atksec.com/)
+* [Coding Club](https://ourcodingclub.github.io/)
+* [Dev Empathy Book Club](http://www.devempathybook.club/)
+* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
